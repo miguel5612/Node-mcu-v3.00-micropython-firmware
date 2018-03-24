@@ -78,7 +78,7 @@ Este repositorio es la compilacion de los pre-requisitos que necesitas para flas
 10. Ahora abres la pagina oficial de webrepl (http://micropython.org/webrepl/?)
 
 	Recuerda que debes conectarte por http, https aun no funciona.
-	en donde dice --> ws://192.168.4.1:8266/
+	En donde dice --> ws://192.168.4.1:8266/
 	Colocas la ip de tu modulo y el puerto 8266.
 	Presionas conect y te solicita la contraseña.
 
