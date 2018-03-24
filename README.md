@@ -93,7 +93,7 @@ Este repositorio es la compilacion de los pre-requisitos que necesitas para flas
 
 
 
-## About
+## Agradecimientos
 
 	Agradecimientos a esptool (https://github.com/espressif/esptool).
 	Agradecimientos a micropython(http://docs.micropython.org/en/v1.9.3/esp8266/esp8266/tutorial/network_basics.html).
