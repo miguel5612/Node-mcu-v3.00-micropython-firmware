@@ -10,7 +10,7 @@ Este repositorio es la compilacion de los pre-requisitos que necesitas para flas
 2. instalar pip para python (https://pip.pypa.io/en/stable/installing/).
 
 3. Necesitas descargar previamente la ultima version de esptool, que puedes encontrar en el folder --> esptool o en el repositorio --> (http://pypi.python.org/pypi/esptool) 
-   Este repositorio lo puedes clonar con git --> 
+   Este repositorio lo puedes clonar con git:
 	```
 	   git clone https://github.com/miguel5612/Node-mcu-v3.00-micropython-firmware	
 	``` 
