@@ -21,7 +21,7 @@ Este repositorio es la compilacion de los pre-requisitos que necesitas para flas
 	
 4. Dentro del folder esptool por cualquiera de los dos metodos anteriores puedes instalar ahora esptool con el siguiente comando:
 	```
-	$ pip install esptool
+		pip install esptool
 	```
 5. Debes descargar el firmware oficial de micropython que se encuentra dentro de la carpeta esptool(esp8266-20170108-v1.8.7), bin(esp8266-20170108-v1.8.7) o en el repositorio: (http://micropython.org/download#esp8266).
 
